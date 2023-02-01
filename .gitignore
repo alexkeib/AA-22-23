@@ -1,2 +1,8 @@
 archive/
 Report/
+input/boston_2018.csv
+
+# ignore all files within the data folder
+data/*
+# do not ignore the empty folder
+!data/

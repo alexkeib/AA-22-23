@@ -1,0 +1,1 @@
+If re-running the script, boston_2018.csv needs to be copied into the 'input/'-folder. Afterwards the .pkl-files will be created by Notebook 01_Data_Prep.ipynb and exported into the 'data/'-folder. The .pkl-files are necessary as input for notebooks [02-04]_*.ipynb.
