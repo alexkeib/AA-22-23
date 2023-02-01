@@ -1,8 +1,8 @@
 archive/
 Report/
 input/boston_2018.csv
+data/geo_data.pkl
+data/station_data.pkl
+data/trip_data.pkl
+data/weather_data.pkl
 
-# ignore all files within the data folder
-data/*
-# do not ignore the empty folder
-!data/
